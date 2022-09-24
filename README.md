@@ -1,10 +1,9 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Ayman Abu-Eideh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a Fullstack developer with passion to learn new technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayman-abueideh" alt="ayman-abueideh" /></a> </p>
-
-- 📫 How to reach me **https://www.linkedin.com/in/ayman-abu-eideh-873986186/**
+- 🔭 I’m a Fullstack developer with +3 years of experience
+- 🌱 I’m currently improving my skills in frontend developement 
+- 📫 How to reach me **ayman.h.abueideh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
