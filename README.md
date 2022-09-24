@@ -16,8 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayman-abueideh&show_icons=true&locale=en&layout=compact" alt="ayman-abueideh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayman-abueideh&show_icons=true&locale=en" alt="ayman-abueideh" /></p>
-
 
 
 <!--
